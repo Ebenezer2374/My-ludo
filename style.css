@@ -1,0 +1,50 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 5px black;
+    border-collapse: collapse;
+    border-style: solid;
+    width: 800px;
+    height: 800px;
+    padding: 10px 10px 10px 10px;
+}
+td{
+    border: 2px solid black;
+    border-collapse:collapse ;
+}
+#red{
+    background-color: red;
+
+}
+#yellow {
+    background-color: yellow;
+}
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+.center{
+    background: url('images/vinnitsa-ukraine-november-08-2022-football-soccer-league-of-champions-logo-vector-editorial-illustration-2PKER89.jpg');
+    background-size: cover;
+}
+.red{
+    background: url(images/Man\ u.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+.blue{
+    background: url(images/Manchester_City_FC_badge.svg.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+}
+.green{
+    background: url(images/Juve-sq.jpg);
+    background-size: cover;
+}
+.yellow{
+    background: url(images/bacer.png);
+    background-size:contain;
+}
